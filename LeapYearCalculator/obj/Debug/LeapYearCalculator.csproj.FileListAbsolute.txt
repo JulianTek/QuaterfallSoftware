@@ -1,0 +1,10 @@
+C:\Users\Julia\source\repos\LeapYearCalculator\obj\Debug\LeapYearCalculator.csprojAssemblyReference.cache
+C:\Users\Julia\source\repos\LeapYearCalculator\obj\Debug\LeapYearCalculator.Form1.resources
+C:\Users\Julia\source\repos\LeapYearCalculator\obj\Debug\LeapYearCalculator.Properties.Resources.resources
+C:\Users\Julia\source\repos\LeapYearCalculator\obj\Debug\LeapYearCalculator.csproj.GenerateResource.cache
+C:\Users\Julia\source\repos\LeapYearCalculator\obj\Debug\LeapYearCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\LeapYearCalculator\bin\Debug\LeapYearCalculator.exe.config
+C:\Users\Julia\source\repos\LeapYearCalculator\bin\Debug\LeapYearCalculator.exe
+C:\Users\Julia\source\repos\LeapYearCalculator\bin\Debug\LeapYearCalculator.pdb
+C:\Users\Julia\source\repos\LeapYearCalculator\obj\Debug\LeapYearCalculator.exe
+C:\Users\Julia\source\repos\LeapYearCalculator\obj\Debug\LeapYearCalculator.pdb
