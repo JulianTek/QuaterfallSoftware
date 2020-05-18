@@ -1,0 +1,10 @@
+C:\Users\Julia\source\repos\EvenOddAlgo\bin\Debug\EvenOddAlgo.exe.config
+C:\Users\Julia\source\repos\EvenOddAlgo\bin\Debug\EvenOddAlgo.exe
+C:\Users\Julia\source\repos\EvenOddAlgo\bin\Debug\EvenOddAlgo.pdb
+C:\Users\Julia\source\repos\EvenOddAlgo\obj\Debug\EvenOddAlgo.csprojAssemblyReference.cache
+C:\Users\Julia\source\repos\EvenOddAlgo\obj\Debug\EvenOddAlgo.Form1.resources
+C:\Users\Julia\source\repos\EvenOddAlgo\obj\Debug\EvenOddAlgo.Properties.Resources.resources
+C:\Users\Julia\source\repos\EvenOddAlgo\obj\Debug\EvenOddAlgo.csproj.GenerateResource.cache
+C:\Users\Julia\source\repos\EvenOddAlgo\obj\Debug\EvenOddAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\EvenOddAlgo\obj\Debug\EvenOddAlgo.exe
+C:\Users\Julia\source\repos\EvenOddAlgo\obj\Debug\EvenOddAlgo.pdb
